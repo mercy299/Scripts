@@ -1,0 +1,12 @@
+git init
+
+git add .
+
+git commit -m "Message"
+
+git remote set-url origin [https-or-ssh-link]
+*They wouldn't be in brackets*
+
+git push origin main
+
+
